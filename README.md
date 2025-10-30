@@ -1,14 +1,14 @@
-# 🧠 Amazon ML Challenge 2024 – Approach Report  
+# 🧠 Amazon ML Challenge 2025 – Approach Report  
 **Author:** Md Irfan Raj  
 **Members** : Md Irfan Raj , Abishek E, Raushan Kumar
-**Challenge:** Amazon ML Challenge 2024  
+**Challenge:** Amazon ML Challenge 2025 
 **Metric:** Symmetric Mean Absolute Percentage Error (SMAPE)  
 **Final Score:** ~54%
 
 ---
 
 ## 📌 Overview
-This repository documents my approach and implementation for the **Amazon ML Challenge 2024**, an applied machine learning competition hosted by Amazon.  
+This repository documents my approach and implementation for the **Amazon ML Challenge 2025**, an applied machine learning competition hosted by Amazon.  
 The task involved developing a model capable of predicting key values from complex multimodal datasets (image + metadata) to minimize the **SMAPE metric**.
 
 ---
